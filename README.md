@@ -24,9 +24,17 @@ discover new songs/artists, and sample them out before purchasing them. Each son
 
 ## Features
 
+* Music Player
+
+![MusicPlayer](music-player.png)
+
+* Lyrics
+
+![Lyrics](lyrics.png)
+
 * Genre Selection
 
-![Genre Selection](genre-selection.png)
+![GenreSelection](genre-selection.png)
 
 * Top Artists
 
